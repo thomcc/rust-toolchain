@@ -13,6 +13,7 @@ inputs:
   components:
     description: Comma-separated list of components to be additionally installed
     required: false
+    default: clippy
 
 outputs:
   version:
